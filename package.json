@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "jest": "^28.1.0"
+  },
+  "name": "logic-blocks-sonar-sweep",
+  "description": "Solution for logic blocks #3",
+  "version": "1.0.0",
+  "main": "sonar-sweep-data.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirKevlar/logic-blocks-sonar-sweep.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirKevlar/logic-blocks-sonar-sweep/issues"
+  },
+  "homepage": "https://github.com/sirKevlar/logic-blocks-sonar-sweep#readme"
+}
